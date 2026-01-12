@@ -783,6 +783,13 @@
         "240": {
             "name": "Boeing b777-200",
             "liveries": [
+            {
+                    "name": "Kaiteki Air",                                                          
+                    "texture": [       
+                        "https://i.ibb.co/hxghfRhR/kaitekia380-800.png" 
+                    ],
+                    "credits": "aWindowsXPMan"                                                          
+                }
             ],
             "labels": [
                 "Metallic Roughness shader",
