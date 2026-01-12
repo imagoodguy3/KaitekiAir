@@ -806,8 +806,16 @@
             ]
         },
         "1004": {
-            "name": "Boeing b777-200LR",
+"name": "Boeing b777-200LR",
             "liveries": [
+            {
+                    "name": "Kaiteki Air",                                                          
+                    "texture": [ 
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-200/shaders/original.png",
+                        "https://i.ibb.co/zVY2vdSb/kaiteki777-200.png" 
+                    ],
+                    "credits": "aWindowsXPMan"                                                          
+                }
             ],
             "labels": [
                 "Metallic Roughness shader",
