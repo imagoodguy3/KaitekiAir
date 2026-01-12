@@ -786,12 +786,13 @@
                 {
                     "name": "Kaiteki Air (new design)",                                                          
                     "texture": [       
-                        "https://ibb.co/qLY2rtW6" 
+                        "https://i.ibb.co/hxFTmPZ0/kaiteki777-200.png" 
                     ],
                     "credits": "aWindowsXPMan"                                                          
                 }
             ],
             "labels": [
+                "Metallic Roughness shader",
                 "Texture"
         },
         "1004": {
