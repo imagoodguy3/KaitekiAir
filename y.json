@@ -1,7 +1,7 @@
 {
-    "name": "",
-    "color": "",
-    "bgcolor": "",
+    "name": "Kaiteki Air",
+    "color": "darkgreen",
+    "bgcolor": "white",
     "aircrafts": {
         "1": {
             "name": "Piper J3 Cub",
