@@ -540,8 +540,17 @@
         "5": {
             "name": "Embraer Phenom100",
             "liveries": [
-            ],
-            "labels": [
+            {
+                    "name": "Kaiteki Air (trainer design)",
+                    "texture": [
+                        "https://www.geo-fs.com/models/aircraft/premium/phenom_100/normal.jpg",
+                        "https://www.geo-fs.com/models/aircraft/premium/phenom_100/specular.jpg",
+                        "https://i.ibb.co/Rpw5NNnK/kaitekiphenom100.png"
+                    ],
+                    "credits": "aWindowsXPMan"
+            }
+        ],
+        "labels":[
                 "Normal map",
                 "Specular shader",
                 "Texture"
