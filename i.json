@@ -734,7 +734,12 @@
         "1023": {
             "name": "McDonnell Douglas MD11",
             "liveries": [
-            ],
+            {
+                "name": "Kaiteki Air (old design)"
+                "texture": [
+                    "https://i.ibb.co/XxBMtGhc/kaitekimd11.png"
+                ],
+                "credits": "aWindowsXPMan
             "labels": [
                 "Texture"
             ]
