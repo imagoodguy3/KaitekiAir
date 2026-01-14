@@ -739,7 +739,9 @@
                 "texture": [
                     "https://i.ibb.co/XxBMtGhc/kaitekimd11.png"
                 ],
-                "credits": "aWindowsXPMan"
+                "credits": "aWindowsXPMan",
+            }
+       ],
             "labels": [
                 "Texture"
             ]
