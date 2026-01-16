@@ -634,22 +634,6 @@
             ]
             
         },
-        "5211": {
-            "name": "Boeing b747SP",
-            "liveries": [
-            {
-                    "name": "Kaiteki Air (old design)",
-                    "texture": [
-                        "https://i.ibb.co/mCByY1B7/kaiteki747sp.png"
-                    ],
-                    "credits": "aWindowsXPMan"
-            }
-        ],
-            "labels": [
-                "Texture"
-            ]
-            
-        },
         "2857": {
             "name": "Lokheed Martin F22 Raptor",
             "liveries": [
