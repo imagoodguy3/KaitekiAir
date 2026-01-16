@@ -492,6 +492,22 @@
                 "Texture"
             ]
         },
+
+        "5211": {
+    "name": "Boeing b747SP",
+    "liveries": [
+        {
+            "name": "Kaiteki Air",
+            "texture": [
+                "https://i.ibb.co/mCByY1B7/kaiteki747sp.png"
+            ],
+            "credits": "aWindowsXPMan"
+                }
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
         "23": {
             "name": "Piper PA-28 161 Warrior II",
             "liveries": [
