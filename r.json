@@ -73,7 +73,7 @@
             "name": "Airbus a380-800",
             "liveries": [
             {
-                    "name": "Kaiteki Air",
+                    "name": "Kaiteki Air (new design)",
                     "texture": [
                         "https://www.geo-fs.com/models/aircraft/premium/a380/normal.jpg",
                         "https://www.geo-fs.com/models/aircraft/premium/a380/specular.jpg",
@@ -471,7 +471,7 @@
             "name": "Boeing b777-300ER",
             "liveries": [
             {
-                    "name": "Kaiteki Air",                                                          
+                    "name": "Kaiteki Air (new design)",                                                          
                     "texture": [ 
                         "https://www.geo-fs.com/models/aircraft/premium/777_300/specular_0.jpg",
                         "https://i.ibb.co/9mf1RYqK/kaiteki777-300er.png" 
@@ -497,7 +497,7 @@
     "name": "Boeing b747SP",
     "liveries": [
         {
-            "name": "Kaiteki Air",
+            "name": "Kaiteki Air (old design)",
             "texture": [
                 "https://i.ibb.co/mCByY1B7/kaiteki747sp.png"
             ],
@@ -840,7 +840,7 @@
             "name": "Boeing b777-200",
             "liveries": [
             {
-                    "name": "Kaiteki Air",                                                          
+                    "name": "Kaiteki Air (new design)",                                                          
                     "texture": [ 
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-200/shaders/original.png",
                         "https://i.ibb.co/zVY2vdSb/kaiteki777-200.png" 
@@ -857,7 +857,7 @@
 "name": "Boeing b777-200LR",
             "liveries": [
             {
-                    "name": "Kaiteki Air",                                                          
+                    "name": "Kaiteki Air (new design)",                                                          
                     "texture": [ 
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-200/shaders/original.png",
                         "https://i.ibb.co/zVY2vdSb/kaiteki777-200.png" 
