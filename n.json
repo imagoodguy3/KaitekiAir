@@ -634,6 +634,22 @@
             ]
             
         },
+        "5211": {
+            "name": "Boeing b747SP",
+            "liveries": [
+            {
+                    "name": "Kaiteki Air (old design)",
+                    "texture": [
+                        "https://i.ibb.co/mCByY1B7/kaiteki747sp.png"
+                    ],
+                    "credits": "aWindowsXPMan"
+            }
+        ],
+            "labels": [
+                "Texture"
+            ]
+            
+        },
         "2857": {
             "name": "Lokheed Martin F22 Raptor",
             "liveries": [
@@ -773,8 +789,15 @@
         "5314": {
             "name": "Boeing b747-100 SCA",
             "liveries": [
-            ],
-            "labels": [
+            {
+                    "name": "Kaiteki Air (old design)",
+                    "texture": [
+                        "https://i.ibb.co/k2h16kKD/kaiteki747-100.png"
+                    ],
+                    "credits": aWindowsXPMan
+            }
+       ],
+       "labels": [
                 "Texture"
             ]
         },
