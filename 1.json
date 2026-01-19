@@ -493,23 +493,23 @@
             ]
         },
         "5211": {
-    "name": "Boeing b747SP",
-    "liveries": [
-        {
-            "name": "Kaiteki Air (old design)",
-            "texture": [
-                "https://i.ibb.co/gFSMGMpy/kaiteki747sp.png"
+            "name": "Boeing b747SP",
+            "liveries": [
+                {
+                    "name": "Kaiteki Air (old design)",                                                          
+                    "texture": [       
+                        "https://i.ibb.co/gFSMGMpy/kaiteki747sp.png" 
+                    ],
+                    "credits": "aWindowsXPMan"                                                          
+                },
+                {
+                    "name": "Kaiteki Air (Fly VIP)",                                                          
+                    "texture": [       
+                        "https://i.ibb.co/F41JFnf4/kaiteki747spvip.png" 
+                    ],
+                    "credits": "aWindowsXPMan"                                                          
+                }
             ],
-            "credits": "aWindowsXPMan"
-       },
-       {
-            "name": "Kaiteki Air (Fly VIP)",
-            "texture": [
-                "https://i.ibb.co/F41JFnf4/kaiteki747spvip.png"
-            ],
-            "credits": "aWindowsXPMan"
-        }
-    ],
             "labels": [
                 "Texture"
             ]
