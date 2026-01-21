@@ -647,15 +647,22 @@
                 "Texture for tail light"
             ]
         },
-        "5193": {
-            "name": "Boeing b747-8I",
+        "25": {
+            "name": "Boeing b777-300ER",
             "liveries": [
+            {
+                    "name": "Kaiteki Air (new design)",                                                          
+                    "texture": [ 
+                        "https://i.ibb.co/R4Y1htyW/kaitekiair747-8i.png",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/wing/original.png" 
+                    ],
+                    "credits": "aWindowsXPMan"                                                          
+                }
             ],
             "labels": [
                 "Texture",
-                "Wing texture"
+                "Wing Texture"
             ]
-            
         },
         "2857": {
             "name": "Lokheed Martin F22 Raptor",
