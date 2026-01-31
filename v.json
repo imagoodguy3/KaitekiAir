@@ -72,7 +72,7 @@
         "10": {
             "name": "Airbus a380-800",
             "liveries": [
-        {
+            {
                     "name": "Kaiteki Air (new design)",
                     "texture": [
                         "https://www.geo-fs.com/models/aircraft/premium/a380/normal.jpg",
@@ -80,15 +80,14 @@
                         "https://i.ibb.co/hxghfRhR/kaitekia380-800.png"
                     ],
                     "credits": "aWindowsXPMan"
-              }
-            ],       
-    "labels": [
-        "Normal map",
-        "Specular shader",
-        "Texture"
-    ]
-},
-
+            }
+        ],
+        "labels": [
+                "Normal map",
+                "Specular shader",
+                "Texture"
+            ]
+        },
         "11": {
             "name": "Alisport Silent 2 Electro",
             "liveries": [
